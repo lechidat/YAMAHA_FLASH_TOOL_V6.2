@@ -1,0 +1,155 @@
+2025-07-13 02:19:30.639 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-07-13 02:19:30.804 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-07-13 02:19:31.613 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-07-13 02:19:32.252 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-07-13 02:19:32.254 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 02:19:32.261 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 02:19:32.387 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 02:19:32.396 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-07-13 02:19:32.397 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.rmv/config
+2025-07-13 02:19:32.397 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-07-13 02:19:32.398 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/THUY NGA
+2025-07-13 02:19:32.487 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-07-13 02:19:32.498 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2025-07-13 02:19:32.502 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIDATA/
+2025-07-13 02:19:32.529 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\THUY NGA\Downloads\setup-Yamaha Flash Tools 0.2 (1)\YAMAHA_FLASH_TOOL_V6.2\.rmv\documentation\UNIDATA\custom.json
+2025-07-13 02:19:32.537 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\THUY NGA\documentation\UNIDATA\custom.json
+2025-07-13 02:19:33.046 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2025-07-13 02:19:33.071 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) load start
+2025-07-13 02:19:33.186 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2025-07-13 02:19:34.867 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2025-07-13 02:19:34.884 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2025-07-13 02:19:34.886 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2025-07-13 02:19:34.887 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2025-07-13 02:19:34.887 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) load end
+2025-07-13 02:19:34.900 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.CapabilityConfig - [framework:30010301]capabilities file(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/config/capability) doesn't exist or read error, default config will take effect
+2025-07-13 02:19:34.901 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200105]load all workspace folders successful
+2025-07-13 02:19:34.912 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010101]load account manager start
+2025-07-13 02:19:34.981 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.CacheAccountHandler - [client:40010102]load cache account: 
+2025-07-13 02:19:34.989 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ExternalAccountHandler - [client:40010103]load external account: 
+2025-07-13 02:19:35.257 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in YAMAHA_FLASH_TOOL_V6.2 account
+2025-07-13 02:19:35.284 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.299 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.304 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for YAMAHA_FLASH_TOOL_V6.2, its period 5s 
+2025-07-13 02:19:35.306 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .git account
+2025-07-13 02:19:35.308 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.317 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.320 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .git, its period 5s 
+2025-07-13 02:19:35.322 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in logs account
+2025-07-13 02:19:35.324 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.332 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.334 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for logs, its period 5s 
+2025-07-13 02:19:35.337 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-07-13 02:19:35.349 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.354 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.356 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-07-13 02:19:35.358 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-07-13 02:19:35.375 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.383 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.385 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-07-13 02:19:35.387 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in objects account
+2025-07-13 02:19:35.388 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.390 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.398 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for objects, its period 5s 
+2025-07-13 02:19:35.400 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-07-13 02:19:35.402 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.403 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.404 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-07-13 02:19:35.407 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-07-13 02:19:35.408 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 02:19:35.414 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 02:19:35.415 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-07-13 02:19:35.451 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ServerAccountHandler - [client:40010104]load server account: Account{name=logs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs, type=PREDICT}
+Account{name=objects, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/objects, type=PREDICT}
+Account{name=refs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/refs, type=PREDICT}
+Account{name=YAMAHA_FLASH_TOOL_V6.2, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2, type=PREDICT}
+Account{name=.git, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git, type=PREDICT}
+Account{name=refs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs/refs, type=PREDICT}
+Account{name=remotes, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs/refs/remotes, type=PREDICT}
+Account{name=remotes, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/refs/remotes, type=PREDICT}
+2025-07-13 02:19:35.453 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010105]load account manager finish
+2025-07-13 02:19:35.458 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.userspace.UserspaceManager - [framework:30010402]config file(C:\Users\THUY NGA/.rmv/config) watcher launch successful
+2025-07-13 02:33:35.949 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2)
+2025-07-13 02:34:10.504 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2)
+2025-07-13 02:34:43.981 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2)
+2025-07-13 02:35:21.069 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2)
+2025-07-13 02:35:42.371 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2)
+2025-07-13 02:44:36.235 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.devcontainer)
+2025-07-13 02:44:52.173 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.devcontainer)
+2025-07-13 02:48:12.784 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500102]file(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.rmv/config/db.mvbasic.json}) is not exist
+2025-07-13 02:48:12.961 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) reload start
+2025-07-13 02:48:13.002 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) load end
+2025-07-13 02:55:07.990 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/refs)
+2025-07-13 03:09:10.266 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git)
+2025-07-13 03:21:45.270 [main] WARN  com.rs.mv.mvvs.Startup - [LSP:100104]ROCKET MV BASIC EXTENSION exited
+2025-07-13 03:24:41.050 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-07-13 03:24:41.408 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-07-13 03:24:42.105 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-07-13 03:24:42.461 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-07-13 03:24:42.462 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 03:24:42.465 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 03:24:42.566 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/THUY%20NGA/Downloads/setup-Yamaha%20Flash%20Tools%200.2%20%281%29/YAMAHA_FLASH_TOOL_V6.2
+2025-07-13 03:24:42.575 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-07-13 03:24:42.576 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.rmv/config
+2025-07-13 03:24:42.576 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-07-13 03:24:42.577 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/THUY NGA
+2025-07-13 03:24:42.630 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-07-13 03:24:42.643 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2025-07-13 03:24:42.647 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2025-07-13 03:24:42.668 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\THUY NGA\Downloads\setup-Yamaha Flash Tools 0.2 (1)\YAMAHA_FLASH_TOOL_V6.2\.rmv\documentation\UNIVERSE\custom.json
+2025-07-13 03:24:42.676 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\THUY NGA\documentation\UNIVERSE\custom.json
+2025-07-13 03:24:43.873 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2025-07-13 03:24:43.908 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) load start
+2025-07-13 03:24:44.174 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2025-07-13 03:24:45.597 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2025-07-13 03:24:45.613 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2025-07-13 03:24:45.615 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2025-07-13 03:24:45.617 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2025-07-13 03:24:45.618 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2) load end
+2025-07-13 03:24:45.627 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.CapabilityConfig - [framework:30010301]capabilities file(C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/config/capability) doesn't exist or read error, default config will take effect
+2025-07-13 03:24:45.628 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200105]load all workspace folders successful
+2025-07-13 03:24:45.633 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010101]load account manager start
+2025-07-13 03:24:45.685 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.CacheAccountHandler - [client:40010102]load cache account: 
+2025-07-13 03:24:45.703 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ExternalAccountHandler - [client:40010103]load external account: 
+2025-07-13 03:24:46.174 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in YAMAHA_FLASH_TOOL_V6.2 account
+2025-07-13 03:24:46.196 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.203 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.231 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for YAMAHA_FLASH_TOOL_V6.2, its period 5s 
+2025-07-13 03:24:46.235 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .git account
+2025-07-13 03:24:46.237 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.239 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.246 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .git, its period 5s 
+2025-07-13 03:24:46.250 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in logs account
+2025-07-13 03:24:46.251 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.254 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.257 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for logs, its period 5s 
+2025-07-13 03:24:46.263 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-07-13 03:24:46.267 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.269 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.270 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-07-13 03:24:46.273 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-07-13 03:24:46.274 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.283 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.284 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-07-13 03:24:46.288 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in objects account
+2025-07-13 03:24:46.303 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.306 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.308 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for objects, its period 5s 
+2025-07-13 03:24:46.316 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-07-13 03:24:46.317 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.318 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.320 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-07-13 03:24:46.321 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-07-13 03:24:46.322 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-07-13 03:24:46.322 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-07-13 03:24:46.323 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-07-13 03:24:46.338 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ServerAccountHandler - [client:40010104]load server account: Account{name=logs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs, type=PREDICT}
+Account{name=objects, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/objects, type=PREDICT}
+Account{name=refs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/refs, type=PREDICT}
+Account{name=YAMAHA_FLASH_TOOL_V6.2, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2, type=PREDICT}
+Account{name=.git, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git, type=PREDICT}
+Account{name=refs, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs/refs, type=PREDICT}
+Account{name=remotes, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/logs/refs/remotes, type=PREDICT}
+Account{name=remotes, path=C:/Users/THUY NGA/Downloads/setup-Yamaha Flash Tools 0.2 (1)/YAMAHA_FLASH_TOOL_V6.2/.git/refs/remotes, type=PREDICT}
+2025-07-13 03:24:46.338 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010105]load account manager finish
+2025-07-13 03:24:46.341 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.userspace.UserspaceManager - [framework:30010402]config file(C:\Users\THUY NGA/.rmv/config) watcher launch successful

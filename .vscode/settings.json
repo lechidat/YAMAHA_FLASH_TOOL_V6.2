@@ -2,5 +2,62 @@
     "cmake.ignoreCMakeListsMissing": true,
     "cmake.configureOnOpen": false,
     "cmake.enableAutomaticKitScan": false,
-    "cmake.sourceDirectory": "${workspaceFolder}/nonexistent"
+    "cmake.sourceDirectory": "${workspaceFolder}/nonexistent",
+    "[rocket-mvbasic]": {
+        "editor.codeLens": false
+    },
+    "files.associations": {
+        "**/.rmv/config/*.json": "jsonc"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.rmv/catalog/**": true,
+        "*/_*": true
+    },
+    "editor.tokenColorCustomizations": {
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        },
+        "textMateRules": [
+            {
+                "scope": "googletest.failed",
+                "settings": {
+                    "foreground": "#f00"
+                }
+            },
+            {
+                "scope": "googletest.passed",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            },
+            {
+                "scope": "googletest.run",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            }
+        ]
+    }
 }

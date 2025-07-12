@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ranch-hand-robotics.rde-pack",
+        "ranch-hand-robotics.rde-ros-2",
+        "ranch-hand-robotics.urdf-editor",
+        "utsavm9.c-cpp-flag-debugging",
+        "vscjava.vscode-java-pack",
+        "matthiesen-technology.yaml-with-script"
+    ]
+}
