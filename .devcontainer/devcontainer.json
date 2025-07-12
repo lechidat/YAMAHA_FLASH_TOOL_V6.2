@@ -22,6 +22,8 @@
 		"vscode": {
 			"extensions": [
 				"utsavm9.c-cpp-flag-debugging"
+				"utsavm9.c-cpp-flag-debugging",
+				"Ranch-Hand-Robotics.urdf-editor"
 			]
 		}
 	}
